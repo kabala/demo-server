@@ -1,0 +1,14 @@
+{
+  "kanban": {
+    "columns": {
+      "no-status": [],
+      "no-started": [],
+      "in-progress": [],
+      "completed": []
+    },
+    "header": {
+      "cover": "",
+      "title": ""
+    }
+  }
+}
