@@ -1,26 +1,28 @@
 {
-  "kanban": {
-    "columns": {
-      "no-status": [{
-          "title": "Tarea 1",
-          "description": "",
-          "status": "no-status",
-          "id": 0
-        },
-        {
-          "title": "Tarea 2",
-          "description": "",
-          "status": "no-status",
-          "id": 1
-        }
-      ],
-      "no-started": [],
-      "in-progress": [],
-      "completed": []
+  "kanban": [
+    {
+      "title": "Tarea 1",
+      "description": "",
+      "status": "no-status",
+      "id": 0
     },
-    "header": {
-      "cover": "",
-      "title": ""
+    {
+      "title": "Tarea 2",
+      "description": "",
+      "status": "no-status",
+      "id": 1
+    },
+    {
+      "title": "Tarea 2",
+      "description": "",
+      "status": "no-status",
+      "id": 3
+    },
+    {
+      "title": "Tarea 4",
+      "description": "",
+      "status": "no-status",
+      "id": 4
     }
-  }
+  ]
 }
